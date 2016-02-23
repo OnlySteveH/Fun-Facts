@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Fun Facts</string>
     <string name="page_header">Did you know?</string>
+    <string name="button_label">Show another Fun Fact</string>
 </resources>
